@@ -1,5 +1,5 @@
 {
-  "name": "videosdk-interactive-live-streaming-app",
+  "name": "videosdk-streaming-poc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
